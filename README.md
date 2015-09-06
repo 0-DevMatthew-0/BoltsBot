@@ -1,2 +1,0 @@
-# BoltsBot
-BoltsBot Code
